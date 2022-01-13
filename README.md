@@ -23,3 +23,8 @@ A cool CLI chat-app using python and linode.
 <img src="https://user-images.githubusercontent.com/58912231/149205781-c3e1cacf-3c60-4a84-bd67-48b5ea3e1668.png" width="35px" height="35px">
 
 
+### Useful Links
+1. [thread module and threads](https://realpython.com/intro-to-python-threading/)
+2. [sockets](https://docs.python.org/3/library/socket.html#module-socket)
+3. [Address families](https://docs.python.org/3/library/socket.html#socket.SOCK_STREAM)
+4. [Using SSH on Windows](https://www.a2hosting.in/kb/getting-started-guide/accessing-your-account/using-ssh-secure-shell)
