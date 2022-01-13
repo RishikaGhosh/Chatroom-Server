@@ -1,5 +1,5 @@
 # Chatroom-Server
-Creating a chatroom server using python and linode.
+A cool CLI chat-app using python and linode.
 
 ### Objective
 * To build a client side and server side
